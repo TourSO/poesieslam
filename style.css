@@ -68,7 +68,7 @@ aside {
 }
 @media only screen and (max-width: 480px) {
   .Img  {
-       height: 50%;
+       height: 70%;
 }
   header {
         font-size: 2rem;
